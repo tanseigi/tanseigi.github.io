@@ -1,7 +1,7 @@
 // config.js
 module.exports = {
     github: {
-        username: 'tanseigi', // Your GitHub org/user name. (Required)
+        username: 'mightbebot', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
