@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://arifszn.github.io/ezprofile" target="_blank">
-    <img src="https://arifszn.github.io/assets/img/hosted/ezprofile/logo.png" alt="ezProfile" title="ezProfile" width="80">
+    <img src="https://tenor.com/view/i-mean-if-thats-what-you-want-rick-sanchez-morty-smith-adult-swim-sci-fi-gif-22179210.gif" alt="ezProfile" title="ezProfile" width="80">
   </a>
 </p>
 
@@ -9,13 +9,13 @@
 <p align="center">https://arifszn.github.io/ezprofile</p>
 
 <br/>
-
+<iframe src="https://giphy.com/embed/tJqyalvo9ahykfykAj" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rick-and-morty-tJqyalvo9ahykfykAj">via GIPHY</a></p>
 <p align="center">
-    <a href="https://arifszn.github.io/ezprofile">
-        <img src="https://arifszn.github.io/assets/img/hosted/ezprofile/preview.gif" width="60%" alt="Preview"/>
+    <a href="https://tenor.com/view/i-mean-if-thats-what-you-want-rick-sanchez-morty-smith-adult-swim-sci-fi-gif-22179210.gif">
+        <img src="https://tenor.com/view/i-mean-if-thats-what-you-want-rick-sanchez-morty-smith-adult-swim-sci-fi-gif-22179210.gif" width="60%" alt="Preview"/>
     </a>
     <br/>
-    <a href="#arifszn"><img src="https://arifszn.github.io/assets/img/drop-shadow.png" width="60%" alt="Shadow"/></a>
+    <a href="#arifszn"><img src="https://tenor.com/view/i-mean-if-thats-what-you-want-rick-sanchez-morty-smith-adult-swim-sci-fi-gif-22179210.gif" width="60%" alt="Shadow"/></a>
 </p>
 
 **ezProfile** is an easy-to-customize personal dev portfolio builder that is created with React.js. When you manage the code in a GitHub repository, it will automatically render a webpage with the owner's profile information, including a photo, bio, and public repositories. Also, it includes space to highlight your details, job history, education history, skills, and recent blog posts.
@@ -214,17 +214,17 @@ module.exports = {
 
 Here are some screenshots of different themes.\
 <br/>
-![Themes](https://arifszn.github.io/assets/img/hosted/ezprofile/themes-2.png)\
+![Themes](https://tenor.com/view/rick-morty-and-he4rts-yes-gif-8167277.gif)\
 <br/>
-![Themes](https://arifszn.github.io/assets/img/hosted/ezprofile/themes-3.png)\
+![Themes](https://tenor.com/view/rick-morty-and-he4rts-yes-gif-8167277.gif)\
 <br/>
-![Themes](https://arifszn.github.io/assets/img/hosted/ezprofile/themes-4.png)\
+![Themes](https://tenor.com/view/rick-morty-and-he4rts-yes-gif-8167277.gif)\
 <br/>
-![Themes](https://arifszn.github.io/assets/img/hosted/ezprofile/themes-5.png)\
+![Themes](https://tenor.com/view/rick-morty-and-he4rts-yes-gif-8167277.gif)\
 <br/>
-![Themes](https://arifszn.github.io/assets/img/hosted/ezprofile/themes-6.png)\
+![Themes](https://tenor.com/view/rick-morty-and-he4rts-yes-gif-8167277.gif)\
 <br/>
-![Themes](https://arifszn.github.io/assets/img/hosted/ezprofile/themes-7.png)
+![Themes](https://tenor.com/view/rick-morty-and-he4rts-yes-gif-8167277.gif)
 
 
 ### Google Analytics
@@ -268,7 +268,7 @@ Meta tags will be auto-generated from configs dynamically. However, you can also
 
 Your github avatar and bio will be displayed here.\
 <br/>
-![Avatar Bio](https://arifszn.github.io/assets/img/hosted/ezprofile/avatar-card.png)
+![Avatar Bio](https://tenor.com/view/rick-falso-no-lo-se-precio-de-la-historia-pawn-gif-9907625.gif)
 
 
 ### Social Links
@@ -286,7 +286,7 @@ module.exports = {
     behance: '',
     medium: '',
     devto: '',
-    website: 'https://arifszn.github.io',
+    website: 'https://tanseigi.github.io',
     phone: '',
     email: ''
   },
@@ -374,7 +374,7 @@ Your public repo from github will be displayed here automatically. You can limit
 module.exports = {
   // ...
   github: {
-    username: 'arifszn',
+    username: 'tanseigi',
     sortBy: 'stars',
     limit: 8,
     exclude: {
@@ -394,14 +394,14 @@ If you have [medium](https://medium.com) or [dev.to](https://dev.to) account, yo
 module.exports = {
   // ...
   blog: {
-    source: 'dev.to',
-    username: 'arifszn',
+    source: '',
+    username: '',
     limit: 5
   },
 }
 ```
 
-![Blog](https://arifszn.github.io/assets/img/hosted/ezprofile/blog.png)
+![Blog](https://tenor.com/view/rick-falso-no-lo-se-precio-de-la-historia-pawn-gif-9907625.gif)
 
 The posts are fetched by [Article-api](https://github.com/arifszn/article-api).
 
