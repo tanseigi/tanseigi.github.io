@@ -4,9 +4,9 @@
   </a>
 </p>
 
-<h1 align="center">ezProfile</h1>
+<h1 align="center">bzProfile</h1>
 <p align="center">A modern, responsive and customizable portfolio builder for Developers!</p>
-<p align="center">https://arifszn.github.io/ezprofile</p>
+<p align="center">http://tanseigi.github.io/</p>
 
 <br/>
 
