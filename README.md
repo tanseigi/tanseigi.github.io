@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://arifszn.github.io/ezprofile" target="_blank">
+  <a href="http://tanseigi.github.io/" target="_blank">
     <img src="https://tenor.com/view/i-mean-if-thats-what-you-want-rick-sanchez-morty-smith-adult-swim-sci-fi-gif-22179210.gif" alt="ezProfile" title="ezProfile" width="80">
   </a>
 </p>
@@ -9,7 +9,7 @@
 <p align="center">https://arifszn.github.io/ezprofile</p>
 
 <br/>
-<iframe src="https://giphy.com/embed/tJqyalvo9ahykfykAj" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rick-and-morty-tJqyalvo9ahykfykAj">via GIPHY</a></p>
+
 <p align="center">
     <a href="https://tenor.com/view/i-mean-if-thats-what-you-want-rick-sanchez-morty-smith-adult-swim-sci-fi-gif-22179210.gif">
         <img src="https://tenor.com/view/i-mean-if-thats-what-you-want-rick-sanchez-morty-smith-adult-swim-sci-fi-gif-22179210.gif" width="60%" alt="Preview"/>
